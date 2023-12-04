@@ -1,1 +1,3 @@
-# OCR_S3
+# Transideimmensn Sudoku Solver
+
+Waaw un site web de OUF
