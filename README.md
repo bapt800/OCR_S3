@@ -1,12 +1,12 @@
 # Transideimmensn Sudoku Solver
 
-= Introduction
+## Introduction
 
 Dans le cadre de notre programme d'études en informatique, nous avons entrepris le développement d'un projet passionnant axé sur la résolution de Sudoku.
 Le Sudoku, jeu de logique et de réflexion, offre un terrain fertile pour l'application des concepts algorithmiques et de programmation. Notre objectif principal est de concevoir un programme capable de résoudre des grilles de Sudoku via un OCR, tout en offrant une interface utilisateur conviviale.
 
 
-== Présentation et états d'esprits des membres du groupe
+## Présentation et états d'esprits des membres du groupe
 
 
 - *Baptiste Entat-Pantagène*
